@@ -1,0 +1,22 @@
+18:01, 29th September 2019	1 tires 	2 oil	3 spark plugs	$145.2	
+18:07, 29th September 2019	1 tires 	2 oil	3 spark plugs	$145.2	
+18:08, 29th September 2019	1 tires 	2 oil	0 spark plugs	$132	
+18:09, 29th September 2019	1 tires 	2 oil	0 spark plugs	$132	
+18:17, 29th September 2019	1 tires 	2 oil	0 spark plugs	$132	
+18:17, 29th September 2019	1 tires 	2 oil	3 spark plugs	$145.2	
+18:30, 29th September 2019	1 tires 	2 oil	2 spark plugs	$140.8	send help
+18:30, 29th September 2019	1 tires 	2 oil	2 spark plugs	$140.8	sesame street
+18:31, 29th September 2019	69 tires 	4 oil	20 spark plugs	$7722	why does it work now cmon man
+18:37, 29th September 2019	0 tires 	0 oil	0 spark plugs	$0	
+18:45, 29th September 2019	4 tires 	13 oil	-99 spark plugs	$147.4	hax
+18:48, 29th September 2019	0 tires 	0 oil	0 spark plugs	$0	
+19:08, 29th September 2019	1 tires 	2 oil	3 spark plugs	$145.2	123 Sesame Street
+19:11, 29th September 2019	4 tires 	13 oil	-99 spark plugs	$147.4	hax
+19:12, 29th September 2019	0 tires 	0 oil	0 spark plugs	$0	
+19:34, 29th September 2019	1 tires 	2 oil	3 spark plugs	$145.2	testing
+19:41, 29th September 2019	1 tires 	2 oil	3 spark plugs	$145.2	testing
+20:00, 29th September 2019	0 tires 	0 oil	0 spark plugs	$0	
+20:00, 29th September 2019	3 tires 	0 oil	4 spark plugs	$347.6	...me
+20:06, 29th September 2019	3 tires 	4 oil	4 spark plugs	$391.6	exception meme
+20:08, 29th September 2019	3 tires 	4 oil	4 spark plugs	$391.6	exception meme
+20:39, 29th September 2019	0 tires 	20 oil	5 spark plugs	$242	mad customer

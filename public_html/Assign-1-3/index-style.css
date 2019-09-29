@@ -1,0 +1,53 @@
+    	.background{
+        	background-color:#FFC425;
+            	font-family: arial;
+           	height:100vh;
+		padding-left:50px;
+		padding-right:50px;
+            
+        }
+		.head{
+			background-color:#231F20;
+			color: white;
+			text-align: center;
+           		padding: 20px;
+           		margin-top: 20px;
+            
+            	<!-- Makes padding inclusive to width/height -->
+          	box-sizing:border-box;
+    		-moz-box-sizing:border-box; /* Firefox */
+    		-webkit-box-sizing:border-box; /* Safari */
+		}
+        .left{
+        	float: left;
+        	background-color:#55AA55;
+            	width:20%;
+            	height:75%;
+            	padding:10px;
+            	margin-bottom:20px;
+		overflow:auto;
+
+            <!-- Makes padding inclusive to width/height -->
+            box-sizing:border-box;
+    		-moz-box-sizing:border-box; /* Firefox */
+    		-webkit-box-sizing:border-box; /* Safari */
+        }
+        .right{
+        float: right;
+        background-color:white;
+        width:80%;
+        height:75%;
+        padding:10px;
+        margin-bottom:20px;
+        overflow:auto;
+
+        <!-- Makes padding inclusive to width/height -->
+        box-sizing:border-box;
+    	-moz-box-sizing:border-box;
+    	-webkit-box-sizing:border-box;
+        }
+	
+	a{
+	font-weight:bold;
+	text-decoration:none;
+	}
