@@ -1,0 +1,40 @@
+/* gotcha1 */
+
+.tab_main{
+border : 3px solid orange; Margin:20; width:100%; background:rebeccapurple; padding:15;
+}
+
+.highscore_table{
+width: 100%; border: 1px solid whitesmoke; font: 50px courier;
+}
+
+.highscore_table td{
+border: 1px solid whitesmoke;
+}
+
+a:link{
+	color:blue;
+	text-decoration:none;
+	}
+
+a:visited{  
+	color:orangered;
+	}
+
+a:hover{ 
+	color:orange;
+	background-color:lightblue;
+	}
+
+a:active{
+	 color:whitesmoke;
+	}
+
+body{
+color: whitesmoke;
+background-color: dimgray;
+}
+
+canvas{
+border: 1px solid black;
+}
